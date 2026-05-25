@@ -19,7 +19,7 @@
 
 # Eng. Ahmed Mubarak 
 
-### 𓂀 Pharaoh of the Digital Age | أنا لَسْتُ مِثْلَهُم، أنا مَثَلٌ لَهُمْ.
+### 𓂀 Pharaoh of the Digital Age | 𓂀 『فَرعُـون العَصْـر الرَّقْمِي』
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Prompt+Engineer;Frontend+Developer;Automation+Builder;n8n+Workflow+Expert;Competitive+Programmer" />
 
