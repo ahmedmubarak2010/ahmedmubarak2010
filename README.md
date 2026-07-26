@@ -39,7 +39,7 @@
   <a href="https://linktr.ee/ahmed.mubarak1">
     <img src="https://img.shields.io/badge/Linktree-000?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
-  <a href="https://url-shortener.me/APJD">
+  <a href="[https://url-shortener.me/APJD](https://wa.me/message/45YZ4FUMDMEJN1)">
     <img src="https://img.shields.io/badge/WhatsApp_Business-000?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:ahmed.mubarak0x1@gmail.com">
